@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+.vscode/
+.env
+bazel-bin
+bazel-bazel-emscripten
+bazel-out
+bazel-testlogs
+node_modules/
